@@ -1,5 +1,5 @@
 /**
- * Natural Number Calculator application.
+ * Natural Number Calculator application in GUI.
  *
  * This is a very simple "RPN" (Reverse Polish Notation) calculator. There are
  * two operands, both of which always have natural number values. Direct entry
